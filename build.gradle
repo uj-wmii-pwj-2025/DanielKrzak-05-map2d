@@ -9,7 +9,7 @@ def apacheLangVersion = "3.17.0"
 group 'uj.java'
 version '1.0-SNAPSHOT'
 
-sourceCompatibility = JavaVersion.VERSION_21
+sourceCompatibility = JavaVersion.VERSION_17
 
 repositories {
     mavenCentral()
